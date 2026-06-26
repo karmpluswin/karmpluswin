@@ -7,5 +7,5 @@
 > Leaving small improvements wherever I can.
 <br clear="right"/>
 
-[`X`](https://x.com/karmpluswin) . [`Email`](mailto:karmpluswin@gmail.com) . [`Linkedin`](https://www.linkedin.com/in/karmjeetchauhan/) . [`Portfolio`](https://karmpluswin.vercel.app/)
+[`X`](https://x.com/karmpluswin) . [`Email`](mailto:karmpluswin@gmail.com) . [`Linkedin`](https://www.linkedin.com/in/karmjeetchauhan/) . [`Portfolio`](https://karmjeet.dev/)
 </div>
